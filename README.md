@@ -1,0 +1,2 @@
+Using this project to use the basics of HTML learnt from the Odin project.
+The objective is to create a simple recipe website using ONLY HTML. Course chapter: https://www.theodinproject.com/lessons/foundations-recipes

@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: midnightblue;
+}
+
+li {
+    line-height: 150%;
+}
+
+.dishimg {
+    width: 300px;
+    border-radius: 8px;
+    text-align: right;
+}
+
+.recipetitle {
+    font-weight: 700;
+}

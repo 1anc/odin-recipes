@@ -14,5 +14,10 @@ li {
 }
 
 .recipetitle {
-    font-weight: 700;
+    font-weight: 600;
+}
+
+a {
+    color: rgb(54, 60, 167);
+    text-decoration-line: none;
 }
